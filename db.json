@@ -1,10 +1,10 @@
 {
-    "posts": [
+    "user/lookup": 
       {
-        "id": 1,
-        "title": "hello"
+        "user_id": "214123126312",
+        "is_email_verified": false
       }
-    ],
+    ,
     "profile": {
       "name": "typicode"
     }
