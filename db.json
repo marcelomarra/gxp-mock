@@ -1,11 +1,7 @@
 {
-    "user/lookup": 
+    "lookup": 
       {
         "user_id": "214123126312",
         "is_email_verified": false
       }
-    ,
-    "profile": {
-      "name": "typicode"
-    }
   }
